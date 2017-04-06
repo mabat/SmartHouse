@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SmartHouse</string>
+    <string name="HomeClimate1">Klima Panasonic</string>
+    <string name="temperature">Temperature</string>
+    <string name="huminidity">Huminidity</string>
+    <string name="climateOnOff">On/Off</string>
+    <string name="HomeDoorMain">Glavna vrata</string>
+    <string name="HomeDoor1">Vrata stana</string>
+    <string name="HomeDoorMainCmdUnlock">Lock/Unlock</string>
+    <string name="HomeDoor1CmdUnlock">Lock/Unlock</string>
+</resources>
